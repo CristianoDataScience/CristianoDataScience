@@ -5,6 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/data_science__br/)
 
+![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
 
 ![CristianoDataScience GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDataScience&show_icons=true&theme=radical)
 
