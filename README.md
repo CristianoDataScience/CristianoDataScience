@@ -17,7 +17,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin .com/in/cristiano-santana-de-almeida-a99655171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristiano-santana-de-almeida-a99655171/" height="30 " largura="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin%20.com /in/cristiano-santana-de-almeida-a99655171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin%20.com/in/cristiano-santana-de-almeida-a99655171/" height="30" width=" 40" /></a>
 <a href="https://instagram.com/data_science__br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="data_science__br" height="30" width="40" /></a>
 </p>
 
@@ -27,10 +27,7 @@
 <h3 align="left">Suporte:</h3>
 <p> <a href="https://www.buymeacoffee.com/https://github.com/GeEuzebio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/GeEuzebio" /></ a> </p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianodatascience&show_icons=true&locale=en&layout=compact" alt="cristianodatascience" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianodatascience&show_icons=true&locale=en" alt="cristianodatascience" /> </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianodatascience&show_icons=true&locale=en&layout=compact" alt="cristianodatascience" /> </p>
 
 <!---
 
