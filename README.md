@@ -17,7 +17,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin%20.com /in/cristiano-santana-de-almeida-a99655171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin%20.com/in/cristiano-santana-de-almeida-a99655171/" height="30" width=" 40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin .com/in/cristiano-santana-de-almeida-a99655171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristiano-santana-de-almeida-a99655171/" height="30 " largura="40" /></a>
 <a href="https://instagram.com/data_science__br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="data_science__br" height="30" width="40" /></a>
 </p>
 
