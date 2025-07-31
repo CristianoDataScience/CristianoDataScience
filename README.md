@@ -1,5 +1,5 @@
 ### Olá! Eu sou Cristiano Santana 👋
-### Apaixonado por ciências de dados e machine learning 👨‍💻 
+### Apaixonado por desenvolvimento Golang | Data Science | Data Engineering 👨‍💻 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/)
