@@ -8,7 +8,7 @@ Especialista em Engenharia de Dados | Golang | Data Engineering | Analytics 👨
 ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
-![CristianoDataScience GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDataScience&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianoDataScience&show_icons=true&theme=github_dark)
 
 ## Tecnologias que eu uso no meu dia
 
